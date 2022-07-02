@@ -1,6 +1,6 @@
 import requests, random, string, time, os
 
-token = os.environ.get("5121416754:AAHlOW7RQKm_05MjWkKGyN1wVzRzuwAPlNM")
+token = os.environ.get("5121416754:AAHrbZh-1F_-C-PZ35vphucuDDWf4MDDk0I")
 chatid = os.environ.get("1848040430")
 
 def long_key():
